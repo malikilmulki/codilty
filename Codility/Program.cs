@@ -1,4 +1,4 @@
-﻿using Codility.Lesson_1;
+﻿using Codility.Lessons;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +17,11 @@ namespace Codility
             gap.Solution(15);
             gap.Solution(32);
 
-            
+            //Lesson 2, Cyclic Rotation
+            CyclicRotation cyc = new CyclicRotation();
+            int[] cycA = { 33, 8, 9, 7, 6 };
+            int cycK = 3;
+            cyc.Solution(cycA, cycK);
 
         }
     }

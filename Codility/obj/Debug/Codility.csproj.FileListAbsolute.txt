@@ -1,2 +1,7 @@
 c:\users\mulki\documents\visual studio 2015\Projects\Codility\Codility\bin\Debug\Codility.exe.config
 C:\Users\mulki\Documents\GitHub\codilty\Codility\bin\Debug\Codility.exe.config
+C:\Users\mulki\Documents\GitHub\codilty\Codility\bin\Debug\Codility.exe
+C:\Users\mulki\Documents\GitHub\codilty\Codility\bin\Debug\Codility.pdb
+C:\Users\mulki\Documents\GitHub\codilty\Codility\obj\Debug\Codility.csprojResolveAssemblyReference.cache
+C:\Users\mulki\Documents\GitHub\codilty\Codility\obj\Debug\Codility.exe
+C:\Users\mulki\Documents\GitHub\codilty\Codility\obj\Debug\Codility.pdb
