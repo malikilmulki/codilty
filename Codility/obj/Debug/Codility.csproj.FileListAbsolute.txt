@@ -1,0 +1,1 @@
+c:\users\mulki\documents\visual studio 2015\Projects\Codility\Codility\bin\Debug\Codility.exe.config
