@@ -1,1 +1,2 @@
 c:\users\mulki\documents\visual studio 2015\Projects\Codility\Codility\bin\Debug\Codility.exe.config
+C:\Users\mulki\Documents\GitHub\codilty\Codility\bin\Debug\Codility.exe.config
